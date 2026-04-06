@@ -1,0 +1,3 @@
+name: GasSafetyEnv
+state: [gas_level, motion, time]
+actions: [do_nothing, alert, shutoff]
